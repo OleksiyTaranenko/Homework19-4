@@ -1,0 +1,35 @@
+div {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#output {
+    width: 302px;
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#textarea {
+    width: 296px;
+    height: 360px;
+    border: 3px solid black;
+}
+#arrowLeft {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#arrowRight {
+    margin-left: 36px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: xx-large;
+    cursor: pointer;
+}
+#saveText {
+    margin-left: 56px;
+    padding: 10px 50px 10px 50px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    cursor: pointer;
+}
